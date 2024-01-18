@@ -5,4 +5,5 @@ Implementation of linear regression using normal equations, QR decomposition, an
 QR decomposition model and normal equation-based model numerically and visually checked against validation data.
 
 To view results: qr_polynomial_regression.ipynb
+
 To view code: linear_regression.py
